@@ -1,0 +1,2 @@
+
+ Synthesize the week reading raw/daily/Aug2026.md.Identify: recurring themes, pending decisions, ideas worth becoming concepts in the wiki, and possible links to existing ADRs or debriefs.DO NOT create files yet — present as a report.
